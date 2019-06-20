@@ -1,2 +1,0 @@
-# MoviesAndMe
-Created with CodeSandbox
